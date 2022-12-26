@@ -1,0 +1,145 @@
+body{
+    font-family: sans-serif;
+    background-color: #F0F0F0;
+}
+.header{
+font-family: Marker Felt, fantasy;
+
+}
+html {
+	scroll-behavior: smooth;
+}
+.sticky {
+	background-color: #ffffff;
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+}
+.navitems{
+    margin-left: 45%;
+    margin-top: 0.5%;
+}
+.nav-link{
+    margin-left: 6%;
+}
+.navbar-brand{
+    margin-left: 15%;
+    margin-top: 0.5%;
+}
+
+
+
+
+
+
+
+.main-block{
+    color: black;
+    height: 50rem;
+    text-align: center;
+}
+.intro{
+    margin-top: 19%;
+}
+.my-foto{
+    margin-top: 6%;
+    width: 14rem;
+    height: 16rem;
+    
+}
+.intro h1{
+    margin-top: 2%;
+    color:	#383838;
+}
+hr{
+    margin-top: 10rem;
+    border-top: 10px dotted grey;
+    width: 30%;
+}
+
+
+
+
+
+#about{
+    text-align: center;
+    height: 30rem;
+
+}
+
+#about h6{
+    margin-top: 1rem;
+    font-weight: bold;
+}
+
+.about h4{
+    margin-top: 6rem;
+
+    
+}
+.skills{
+    margin-top: 5rem;
+}
+.skill{
+
+    width: 3.5rem;
+    height: 3rem;
+    margin: 0rem 2rem;
+}
+
+
+
+
+
+
+#projects{
+    text-align: center;
+}
+
+#projects h1{
+    margin-top: 6rem;
+    margin-bottom: 8rem;
+}
+#projects .proje{
+    width: 5rem;
+    height: 5rem;
+    border-radius: 100%;
+    margin:1rem 2rem 1rem 2rem;
+}
+#projects h6{
+    font-weight: bold;
+}
+#projects .proje:hover{
+    width: 8rem;
+    height: 8rem;
+}
+
+
+
+
+
+#contacts{
+    text-align: center;
+    margin-top: 12rem;
+    height: 30rem;
+}
+#contacts h1{
+    margin-bottom: 5rem;
+}
+#contacts a{
+    color: #696969;
+}
+
+
+
+
+.icons{
+    margin-top: 15rem;
+    padding-bottom: 5rem;
+}
+
+.icon{
+    width: 2rem;
+    height: 2rem;
+    margin-left: 1rem;
+}
